@@ -1,6 +1,6 @@
 namespace Intro_Ex1
 {
-    class Program
+    class Intro
     {
         static void Main(string[] args)
         {

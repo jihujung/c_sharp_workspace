@@ -1,6 +1,6 @@
 namespace Data_Ex1
 {
-    class Program
+    class DataType
     {
         static void Main(string[] args)
         {
