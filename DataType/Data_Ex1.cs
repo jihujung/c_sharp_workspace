@@ -12,7 +12,6 @@ namespace Data_Ex1
             true   // bool 리터럴
 
 
-
             //예제
 
             // Bool
